@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Nwhat up <code>src/App.js</code>  my github .
+          What up <code>src/App.js</code>  my github .
         </p>
         <a
           className="App-link"
@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Hopefully I don't lose money on AWS
         </a>
       </header>
     </div>
